@@ -8,4 +8,4 @@ app.use(json());
 
 app.use(router);
 
-app.listen(3333, () => console.log("Server running"));
+app.listen(3333, () => console.log("Server running 🚀🚀"));
