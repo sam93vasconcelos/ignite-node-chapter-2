@@ -1,3 +1,4 @@
+import "reflect-metadata";
 import express, { json } from "express";
 import { router } from "./routes";
 import swaggerUi from "swagger-ui-express";
